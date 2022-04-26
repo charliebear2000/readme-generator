@@ -2,7 +2,7 @@
   
   # README Generator
 
-  ![badge](https://img.shields.io/badge/License-MIT-yellow.svg)
+  ![badge](https://img.shields.io/badge/License-GPLv3-blue.svg)
 
   ## Table of Contents
   - [Description](#description)
@@ -15,27 +15,27 @@
   - [Questions](#questions)
 
   ## Description:
-  Creates a README
+  Created a readme file
 
   ## Installation:
-  none
+  run npm inquire
 
   ## Usage:
-  none
+  NA
 
   ## Credits:
-  none
+  NA
 
   ## License:
-  MIT License
+  GNU GPLv3
 
-  For more information go to: [MIT License](https://choosealicense.com/licenses/mit/)
+  For more information go to: [GNU GPLv3](https://choosealicense.com/licenses/gpl-3.0/)
 
   ## Contributing:
-  none
+  contact me
 
   ## Tests:
-  none
+  NA
 
   ## Questions:
   - If you have questions, contact me through:
