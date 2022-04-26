@@ -1,8 +1,8 @@
 
   
-  # readme
+  # README Generator
 
-  ![license](MIT Lincense)
+  ![badge](https://img.shields.io/badge/License-MIT-yellow.svg)
 
   ## Table of Contents
   - [Description](#description)
@@ -15,10 +15,10 @@
   - [Questions](#questions)
 
   ## Description:
-  generates a readme
+  Creates a README
 
   ## Installation:
-  run npm inquire
+  none
 
   ## Usage:
   none
@@ -27,12 +27,12 @@
   none
 
   ## License:
-  MIT Lincense
+  MIT License
 
-  For more information go to: [MIT Lincense]()
+  For more information go to: [MIT License](https://choosealicense.com/licenses/mit/)
 
   ## Contributing:
-  contact me
+  none
 
   ## Tests:
   none

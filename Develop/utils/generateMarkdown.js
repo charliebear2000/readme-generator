@@ -19,7 +19,7 @@ function generateMarkdown(data) {
   let licenseLink = '';
 
   if (badgeChoice === 'MIT License') {
-    badgeChoice = 'https://img.shields.io/badge/License-MIT-yellow.svg)';
+    badgeChoice = 'https://img.shields.io/badge/License-MIT-yellow.svg';
     licenseLink = 'https://choosealicense.com/licenses/mit/';
   };
 
