@@ -1,6 +1,8 @@
 
   
-  # readme generator
+  # readme
+
+  ![license](MIT Lincense)
 
   ## Table of Contents
   - [Description](#description)
@@ -13,7 +15,7 @@
   - [Questions](#questions)
 
   ## Description:
-  readme
+  generates a readme
 
   ## Installation:
   run npm inquire
@@ -27,6 +29,8 @@
   ## License:
   MIT Lincense
 
+  For more information go to: [MIT Lincense]()
+
   ## Contributing:
   contact me
 
@@ -36,6 +40,7 @@
   ## Questions:
   - If you have questions, contact me through:
 
-  GitHub: [charliebear2000](https://github.comcharliebear2000)
+  GitHub: [charliebear2000](https://github.com/charliebear2000)
+
   email: amyrawls@yahoo.com
   
