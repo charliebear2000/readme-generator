@@ -20,6 +20,7 @@
 
   ## Usage:
   
+![readme-video](https://user-images.githubusercontent.com/99057802/165408956-30166b3f-f37f-43de-bcf5-5279444b61b6.gif)
 
 
   ## Credits:
