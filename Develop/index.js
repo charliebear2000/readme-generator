@@ -59,7 +59,15 @@ const questions = [{
    {
    type: 'input',
    name: 'credits',
-   message: 'List any collaborators or link any tutorials that you used.'
+   message: 'List any collaborators or link any tutorials that you used or type none.',
+      validate: creditsInput => {
+         if (creditsInput) {
+         return true;
+         } else {
+         console.log('You need to enter credits or type none!');
+         return false;
+         }
+      }
    },
    {
    type: 'checkbox',
@@ -102,18 +110,31 @@ const questions = [{
       }
    },
    {
-   typr: 'input',
-   name: 'questions',
-   message: 'How can people reach you if they have questions? (Required)',
+   type: 'input',
+   name: 'userName',
+   message: 'What is your GitHub username? (Required)',
       validate: questionsInput => {
          if (questionsInput) {
          return true;
          } else {
-         console.log('You need to enter contact info!');
+         console.log('You need to enter a username!');
          return false;
          }
       }
-   }
+   },
+   {
+   type: 'input',
+   name: 'email',
+   message: 'What is your email address? (Required)',
+      validate: emailInput => {
+         if (emailInput) {
+         return true;
+         } else {
+         console.log('You need to enter an email address!');
+         return false;
+         }
+      }
+},
 ];
 
 

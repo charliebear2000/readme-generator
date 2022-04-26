@@ -20,6 +20,14 @@ function generateMarkdown(data) {
   # ${data.title}
 
   ## Table of Contents
+  - [Description](#description)
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [Credits](#credists)
+  - [License](#license)
+  - [Contributing](#contrbuting)
+  - [Tests](#test)
+  - [Questions](#questions)
 
   ## Description:
   ${data.description}
@@ -43,8 +51,11 @@ function generateMarkdown(data) {
   ${data.test}
 
   ## Questions:
-  ${data.questions}
+  - If you have questions, contact me through:
 
+  GitHub: [${data.userName}](https://github.com/${data.userName})
+  email: ${data.email}
+  
 `;
 }
 

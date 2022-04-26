@@ -1,30 +1,41 @@
 
   
-  # readme
+  # readme generator
 
   ## Table of Contents
+  - [Description](#description)
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [Credits](#credists)
+  - [License](#license)
+  - [Contributing](#contrbuting)
+  - [Tests](#test)
+  - [Questions](#questions)
 
   ## Description:
   readme
 
   ## Installation:
-  node js
+  run npm inquire
 
   ## Usage:
-  na
+  none
 
   ## Credits:
-  na
+  none
 
   ## License:
   MIT Lincense
 
   ## Contributing:
-  email me
+  contact me
 
   ## Tests:
-  video here
+  none
 
   ## Questions:
-  email
+  - If you have questions, contact me through:
 
+  GitHub: [charliebear2000](https://github.comcharliebear2000)
+  email: amyrawls@yahoo.com
+  
